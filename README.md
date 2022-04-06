@@ -29,6 +29,7 @@ We're interested in how you structure your code and if you're implementing best 
 * You should display the current weather data supplied by the API
 * You should make use of SCSS as a pre-compiler 
 * The designs below should be followed for the application, a Figma link is provided
+	* https://www.figma.com/file/UBMkC1wLwSroOfqJsA5yG7/HelloComputer---Weather-Dashboard?node-id=1%3A2
 
 #### Here is a simple flow of how you application should work. 
 ##### The user is presented with an input field and a submit button.
@@ -40,9 +41,6 @@ We're interested in how you structure your code and if you're implementing best 
 ##### Once the data has been retrieved from your Express.js service, the information should display to the user.
 ![](step3.png)
 
-You can host your application on Heroku for free and send a link to nick.bester@hellocomputer.com
-
-Here is a link to the designs on Figma:
-https://www.figma.com/file/UBMkC1wLwSroOfqJsA5yG7/HelloComputer---Weather-Dashboard?node-id=1%3A2
+You can host your application on Heroku for free OR Netlify Or Glitch (this is totally up to you) and send a link to nick.bester@hellocomputer.com
 
 Happy coding!
